@@ -404,7 +404,7 @@ section {
   display: block;
   font-weight: 700;
   color: #050d18;
-  margin-left: 60px;
+  margin-left: 15px;
 }
 
 .facts .count-box p {
@@ -1103,4 +1103,15 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+
+.counterBox{
+  display: flex;
+  justify-content: left;
+}
+
+.skills-icons{
+  font-size: 3em;
+  color: #1f5297;
 }
