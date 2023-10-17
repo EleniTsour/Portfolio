@@ -1113,5 +1113,28 @@ section {
 
 .skills-icons{
   font-size: 3em;
-  color: #1f5297;
+  color: #295794;
+  
+  
+}
+
+.skills-icons:hover{
+  font-size: 3.3em;
+  color: #2c6bc2;
+  
+  
+}
+
+#php-icon{
+  margin-left: 0.7vw;
+}
+
+#sql-icon{
+  margin-left: 0.4vw;
+}
+
+
+.sub-skill{
+  color: #8c8e92;
+  
 }
